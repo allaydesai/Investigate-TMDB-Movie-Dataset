@@ -1,7 +1,7 @@
 # Investigate-TMDB-Movie-Dataset
 Use numpy, pandas and matplotlib to investigate a dataset
 
-UDACITY | Data Analyst Nanodegree Program
+**UDACITY** | Data Analyst Nanodegree Program
 
 ---
 
@@ -14,6 +14,7 @@ In this project we will be analyzing data associated with imdb movie reviews fro
   <li>TMDb_MovieDataset_Analysis.ipynb</li>
   <li>TMDb_MovieDataset_Analysis.html</li>
   <li>tmdb-movies.csv</li>
+  <li>README.MD</li>
 </ul>
 
 ### DATASET
